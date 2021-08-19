@@ -11,7 +11,7 @@ sudo update-alternatives --config javac    ## choose java-1.8.0 version
 cd /opt
 
 ## Download tomcat
-sudo wget http://redrockdigimark.com/apachemirror/tomcat/tomcat-8/v8.5.31/bin/apache-tomcat-8.5.31.tar.gz
+sudo wget https://mirrors.estointernet.in/apache/tomcat/tomcat-8/v8.5.70/bin/apache-tomcat-8.5.70.tar.gz
 
 ## Untar the file
 sudo tar -xf apache-tomcat-8.5.31.tar.gz
